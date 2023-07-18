@@ -12,3 +12,5 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (2, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 1);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 3);
+
+INSERT INTO tb_course (name,img_Uri, img_Gray_Uri) VALUES ('Bootcampo HTML','https://prod-discovery.edx-cdn.org/media/course/image/0e575a39-da1e-4e33-bb3b-e96cc6ffc58e-8372a9a276c1.png','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQuG76xraG0OUdezZoMgZS7W61DhAzxHJLCqETv2WMs6NUlMJ8iNjYf-dhT_H0hyklls&usqp=CAU')
