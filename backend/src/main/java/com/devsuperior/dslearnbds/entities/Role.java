@@ -44,6 +44,14 @@ public class Role implements Serializable{
 	public void setName(String name) {
 		this.authority = name;
 	}
+	
+	public String getAuthority() {
+		return authority;
+	}
+
+	public void setAuthority(String authority) {
+		this.authority = authority;
+	}
 
 	@Override
 	public int hashCode() {
