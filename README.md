@@ -1,6 +1,6 @@
 
 # DSLearn
-É um projeto de uma plataforma de ensino online em que um usuário pode ter várias ofertas e nela possuem várias seções e em cada seção tem várias aulas entre outras particularidades. O projeto respeita o diagrama, bem como as melhores práticas de programação!
+É um projeto backend de uma plataforma de ensino online em que um usuário pode ter várias ofertas e nela possuem várias seções e em cada seção tem várias aulas entre outras particularidades. O projeto respeita o diagrama, bem como as melhores práticas de programação!
 
 ## Técnologias e Arquitetura
 - [x] Padrão Camadas
